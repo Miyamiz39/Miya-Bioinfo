@@ -3,6 +3,6 @@
 for Bioinfo course.
 **All projects, scripts, works...during course will be uploaded here**
 
-## Context
+## Contents
 
 1.
